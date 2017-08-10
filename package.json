@@ -1,0 +1,11 @@
+{
+  "name": "my-odbc",
+  "version": "0.0.1",
+  "description": "My ODBC connection",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "odbc": "^1.3.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}

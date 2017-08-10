@@ -1,0 +1,15 @@
+node_modules/
+
+*.node
+*.dll
+*.lib
+*.so
+*.a
+*.dylib
+
+*.log
+
+package-lock.json
+
+.idea
+*.iml
